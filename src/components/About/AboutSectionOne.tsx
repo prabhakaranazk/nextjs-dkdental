@@ -24,12 +24,18 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
-                mb="44px"
+                title="Meet Our Doctor"
+                paragraph=""
+                mb="0"
               />
-
-              <div
+              <h1 className="mb-5 text-2xl font-bold text-black dark:text-white sm:text-3xl">
+                  Dr.Dhanalakshmi
+              </h1>
+              <SectionTitle
+                title=""
+                paragraph="Dr. Dhanalakshmi brings 5+ years of experience in the field of dentistry, specializing in [specific areas of expertise]. With a commitment to staying at the forefront of dental advancements, Dr. [Last Name] ensures that patients receive the most effective and up-to-date treatments. Known for [his/her/their] compassionate approach and meticulous care, Dr. [Last Name] is passionate about helping patients achieve their best oral health."
+              />
+              {/* <div
                 className="mb-12 max-w-[570px] lg:mb-0"
                 data-wow-delay=".15s"
               >
@@ -46,7 +52,7 @@ const AboutSectionOne = () => {
                     <List text="Developer friendly" />
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="w-full px-4 lg:w-1/2">
@@ -58,7 +64,7 @@ const AboutSectionOne = () => {
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/about-image-dark.svg"
+                  src="/images/about/doctor-img.jpg"
                   alt="about-image"
                   fill
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
