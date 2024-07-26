@@ -1,1 +1,1 @@
-# DK Dental ClinicS
+# DK Dental Clinic
