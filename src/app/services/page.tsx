@@ -25,7 +25,7 @@ const Blog = () => {
                 key={blog.id}
                 className="w-full px-4 md:w-2/3 lg:w-1/2 xl:w-1/3"
               >
-                <a href={`/services/${blog.link}`}>
+                <a href={`/services${blog.link}`}>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                       <h1 className="text-center mb-5 text-1xl font-bold text-black dark:text-white sm:text-2xl">
                       {blog.title}
