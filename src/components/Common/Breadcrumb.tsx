@@ -2,12 +2,10 @@ import Link from "next/link";
 
 const Breadcrumb = ({
   pageName,
-  description,
-  paddingTop
+  description
 }: {
   pageName: string;
   description: string;
-  paddingTop: number;
 }) => {
   return (
     <>
