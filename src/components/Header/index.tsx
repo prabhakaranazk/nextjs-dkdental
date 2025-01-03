@@ -62,6 +62,7 @@ const Header = () => {
                   width={140}
                   height={30}
                   className="w-full dark:hidden"
+                  style={{ objectFit:'none'}}
                 />
                 <Image
                   src="/images/logo/logo-transparent-png.png"
@@ -69,6 +70,7 @@ const Header = () => {
                   width={140}
                   height={30}
                   className="hidden w-full dark:block"
+                  style={{ objectFit:'none'}}
                 />
               </Link>
             </div>
