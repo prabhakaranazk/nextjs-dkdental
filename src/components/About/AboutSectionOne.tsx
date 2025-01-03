@@ -33,7 +33,7 @@ const AboutSectionOne = () => {
               </h1>
               <SectionTitle
                 title=""
-                paragraph="Dr. Dhanalakshmi brings 5+ years of experience in the field of dentistry, specializing in [specific areas of expertise]. With a commitment to staying at the forefront of dental advancements, Dr. [Last Name] ensures that patients receive the most effective and up-to-date treatments. Known for [his/her/their] compassionate approach and meticulous care, Dr. [Last Name] is passionate about helping patients achieve their best oral health."
+                paragraph="Dr. Dhanalakshmi brings 8+ years of experience in the field of dentistry, specializing in Dental Treatment. With a commitment to staying at the forefront of dental advancements, Dr. Dhanalakshmi ensures that patients receive the most effective and up-to-date treatments. Known for her compassionate approach and meticulous care, Dr.Dhanalakshmi is passionate about helping patients achieve their best oral health."
               />
               {/* <div
                 className="mb-12 max-w-[570px] lg:mb-0"

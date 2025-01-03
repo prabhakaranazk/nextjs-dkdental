@@ -26,9 +26,9 @@ const Footer = () => {
                     height={30}
                   />
                 </Link>
-                <p className="mb-5">DK Dental Clinic pride ourselves on being the leading dental care provider in Chennai. Our commitment to excellence and patient satisfaction sets us apart. Whether you’re looking for routine care or advanced treatments, our experienced team is here to ensure you receive the highest quality care in a comfortable and welcoming environment.</p>
+                <p className="mb-5">Dharun Karthik Dental and Cosmetic Clinic pride ourselves on being the leading dental care provider in Chennai. Our commitment to excellence and patient satisfaction sets us apart. Whether you’re looking for routine care or advanced treatments, our experienced team is here to ensure you receive the highest quality care in a comfortable and welcoming environment.</p>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                354 G, 11th St, Airport Colony, Thirumalai Nagar, Hasthinapuram, Chromepet, Chennai, Tamil Nadu
+                354 G-1, 1st Main Rd, Airport Colony, Thirumalai Nagar, Hasthinapuram, Chromepet, Chennai, Tamil Nadu 600064
 
                 </p>
                 <div className="flex items-center">
